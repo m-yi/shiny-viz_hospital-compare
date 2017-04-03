@@ -1,0 +1,14 @@
+
+.content-wrapper,
+.right-side {
+  background-color: #000000;
+}
+
+
+.main-header .logo {
+  font-family:'Gotham SSm',sans-serif;
+  font-size: 24px;
+  font-weight: 450;
+}
+
+
