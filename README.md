@@ -2,7 +2,7 @@
 
 ## 'What Kind of Picture Do Hospital Ratings Paint?'
 
-* an exploratory visualization app for hospital ratings
+* an exploratory visualization app for US hospital ratings
 * my introduction to Shiny
 
 ## Collaboration
